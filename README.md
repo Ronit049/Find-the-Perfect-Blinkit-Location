@@ -40,6 +40,12 @@ The project focuses on quick-commerce store placement by considering factors suc
 The main goal of this project is to show how map-based visualization and location intelligence can help businesses make better decisions while expanding their delivery network.
 
 ---
+## Screenshot
+
+![Blinkit Store Placement Screenshot](blinkit-store_placement_ss.png)
+
+This screenshot shows the Blinkit store placement interface, where users can view and analyze potential store locations using map-based visualization.
+---
 
 ## One-Line Description for GitHub About Section
 
