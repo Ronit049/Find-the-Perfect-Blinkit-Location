@@ -74,6 +74,12 @@ This helps improve delivery speed, increase customer reach, and support efficien
 - Useful for business analysis and location intelligence projects
 
 ---
+## Screenshot
+
+![Top Predict Zone Screenshot](top_predict_zone.png)
+
+This screenshot shows the top predicted zone for Blinkit store placement, helping users identify the most suitable area for opening a new store or delivery hub.
+---
 
 ## Key Factors Considered
 
@@ -87,6 +93,12 @@ This helps improve delivery speed, increase customer reach, and support efficien
 - Delivery time
 - Business growth potential
 
+---
+## Screenshot
+
+![Coverage Map Screenshot](Coverage_map.png)
+
+This screenshot shows the delivery coverage map, helping users understand the service area and reach of the selected Blinkit store location.
 ---
 
 ## Tech Stack
