@@ -130,3 +130,27 @@ It helps in analyzing which area can provide:
 **Find the Perfect Blinkit Location** is a web-based location intelligence project that helps analyze and identify the best area for opening a Blinkit store or delivery hub.
 
 The website uses map-based visualization and business factors such as customer demand, accessibility, population density, competitor presence, and delivery coverage to support smarter store placement decisions.
+
+
+## Author
+
+**Ronit Raj**
+feel free to Connect 💗
+[🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
+
+[💡 HackerRank](https://www.hackerrank.com/profile/ronitrajrsr0409)
+---
+
+## Show Your Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Your support motivates me to build more projects and improve my skills.
+
+---
+
+## Thank You
+
+Thank you for visiting this repository.
+
+I hope this project helps you understand how location-based analysis can be used for smarter business decisions.
