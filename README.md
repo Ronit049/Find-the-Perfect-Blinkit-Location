@@ -135,7 +135,7 @@ The website uses map-based visualization and business factors such as customer d
 ## Author
 
 **Ronit Raj**
-feel free to Connect 💗
+feel free to Connect 💗  
 [🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
 
 [💡 HackerRank](https://www.hackerrank.com/profile/ronitrajrsr0409)
